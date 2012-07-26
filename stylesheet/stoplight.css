@@ -1,0 +1,27 @@
+.circle {
+	width:100px;
+	height:100px;
+	display:block;
+	border-radius:50px;
+	-moz-border-radius:50px;
+	-webkit-border-radius:50px;
+	-khtml-border-radius:50px;
+	font-size:20px;
+	color:#fff;
+	line-height:100px;
+	text-align:center;
+	border:solid black 1px;
+	margin:10px;
+}
+
+#stoplight {
+	background:#CCC;
+	padding:10px;
+	margin:auto;
+	width:125px;
+	border:solid black 1px;
+	border-radius:50px;
+	-moz-border-radius:50px;
+	-webkit-border-radius:50px;
+	-khtml-border-radius:50px;
+}
